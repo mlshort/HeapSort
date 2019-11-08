@@ -1,5 +1,4 @@
-
-Heap Sort Project
+# Heap Sort Project
 
 Directory Structure
 ====================
