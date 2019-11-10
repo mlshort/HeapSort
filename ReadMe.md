@@ -1,5 +1,5 @@
 
-Heap Sort Project
+# Heap Sort Project
 
 Directory Structure
 ====================
@@ -57,11 +57,8 @@ Directory Structure
  References
 ===============================================================================
 
-  * "In-Place Heap Construction with Optimized Comparisons, Moves, and Cache Misses"
-    - https://pdfs.semanticscholar.org/9cc6/36d7998d58b3937ba0098e971710ff039612.pdf#page=1
+  * ["In-Place Heap Construction with Optimized Comparisons, Moves, and Cache Misses"](https://pdfs.semanticscholar.org/9cc6/36d7998d58b3937ba0098e971710ff039612.pdf#page=1)
 
-  * Heapsort (via wikipedia)
-    - https://en.wikipedia.org/wiki/Heapsort
+  * [Heapsort (via wikipedia)](https://en.wikipedia.org/wiki/Heapsort)
 
-  * Heaps and Heap Sort - MIT OpenCourseWare
-    - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec04.pdf
+  * [Heaps and Heap Sort - MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/MIT6_006F11_lec04.pdf)

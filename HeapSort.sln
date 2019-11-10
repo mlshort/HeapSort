@@ -15,6 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reference Documents", "Reference Documents", "{D7462EEC-D1DF-476D-B145-B2ECCB0B5177}"
+	ProjectSection(SolutionItems) = preProject
+		Reference Documents\10_HeapSort.pdf = Reference Documents\10_HeapSort.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
